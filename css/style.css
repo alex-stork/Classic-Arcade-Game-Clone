@@ -2,7 +2,8 @@ body {
     text-align: center;
 }
 
-#endRound, #endGame {
+#endRound,
+#endGame {
     font-family: 'Open Sans', sans-serif;
     position: fixed;
     z-index: 1;
@@ -36,6 +37,6 @@ body {
 
 .button:hover {
     background: rgb(12, 93, 168);
-    color:rgba(12, 10, 10, 0.835);
+    color: rgba(12, 10, 10, 0.835);
     cursor: pointer;
 }
